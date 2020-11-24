@@ -1,6 +1,9 @@
 # Acoustic engineering playground
 
 ## Pre-requirements
+I have tested it only on Mac OS X, i believe all commands
+should be the same on Linux. It might or might not work on
+Windows, I do not have a machine at hand to try it. Feedback/support is very welcome!
  - python3
  - virtualenv
 
